@@ -1,0 +1,270 @@
+Задание 9. Вычисления и преобразования
+Есть в Профильном ЕГЭ по математике, и даже в первой его части, такие задачи, для решения которых можно знать ВСЁ. То есть всю школьную программу алгебры, с 5 класса до 11. Или почти всю.
+
+Например, задание №9 Профильного ЕГЭ по математике – вычисления и преобразования. Вам могут встретиться и совсем простые задачи (на сложение дробей), и задания, которые не решить без подготовки. Например, вычисление и преобразование иррациональных выражений, тригонометрических, логарифмических. Задачи на определение модуля и понятие функции. В общем, типов задач здесь множество, по всему курсу алгебры.
+
+И помните, что в ответе в заданиях первой части Профильного ЕГЭ по математике у вас должны получаться целые числа или конечные десятичные дроби.
+
+Дробно-рациональные выражения. Формулы сокращенного умножения
+
+Темы для повторения: Формулы сокращенного умножения, Приемы быстрого счета
+
+Если вам встретится такое задание на ЕГЭ – значит, повезло!
+
+1. Найдите значение выражения \frac{2,88\cdot 44,5}{0,288\cdot 4,45}
+
+Не спешите перемножать десятичные дроби. Посмотрите на задачу внимательно.
+
+\frac{2,88\cdot 44,5}{0,288\cdot 4,45}=\frac{2,88\cdot 44,5}{2,88\cdot 0,445}=\frac{44,5}{0,445}=100 
+
+Первый множитель в знаменателе умножили на 10, а второй поделили на 10 – просто передвинув запятую.
+
+Ответ: 100
+
+2. Найдите значение выражения 7\frac{9}{13}:\frac{5}{13}
+
+7\frac{9}{13}:\frac{5}{13}=\frac{100}{13}\cdot \frac{13}{5}=20
+
+Ответ: 20
+
+Корни и степени. Иррациональные выражения
+
+Темы для повторения: Арифметический квадратный корень.
+
+Арифметический квадратный корень из числа a — это такое неотрицательное число, квадрат которого равен a.
+
+\left ( \sqrt{a} \right )^{2}=a;\;\sqrt{a}\geq 0;\;a\geq 0 .
+
+3. Вычислите \sqrt{12+4\sqrt{5}}\cdot \sqrt{12-4\sqrt{5}} .
+
+\sqrt{12+4\sqrt{5}}\cdot \sqrt{12-4\sqrt{5}}=\sqrt{\left ( 12+4\sqrt{5} \right )\left ( 12-4\sqrt{5} \right )}=
+
+=\sqrt{144-80}=\sqrt{64}=8
+
+Применили одну из формул сокращенного умножения.
+
+Ответ: 8
+
+4. Вычислите:
+\left ( \sqrt{28}-\sqrt{12} \right )\cdot \sqrt{10+\sqrt{84}}
+
+Упростим множители:
+
+\sqrt{28}-\sqrt{12}=\sqrt{4\cdot 7}-\sqrt{3\cdot 4}=2\left ( \sqrt{7}-\sqrt{3} \right )
+
+\sqrt{84}=\sqrt{3\cdot 7\cdot 4}=2\sqrt{3\cdot 7}
+
+\left ( \sqrt{28}-\sqrt{12} \right )\cdot \sqrt{10+\sqrt{84}}=2\left ( \sqrt{7}-\sqrt{3} \right )\cdot \sqrt{10+2\sqrt{3\cdot 7}}=
+
+=2\left ( \sqrt{7}-\sqrt{3} \right )\cdot \sqrt{\left ( \sqrt{7} \right )^{2}+2\sqrt{3}\cdot \sqrt{7}+\left ( \sqrt{3} \right )^{2}}=
+
+=2\left ( \sqrt{7}-\sqrt{3} \right )\cdot \sqrt{\left ( \sqrt{7}+\sqrt{3}\right )^{2}}=2\left ( \sqrt{7}-\sqrt{3} \right )\left ( \sqrt{7}+\sqrt{3} \right )=
+
+=2\cdot \left ( 7-3 \right )=8
+
+Ответ: 8.
+
+Действия со степенями
+
+Темы для повторения:
+Вспомним правила действий со степенями.
+
+a^{m}\cdot a^{n}=a^{m+n}
+
+\frac{a^{m}}{a^{n}}=a^{m-n}
+
+\left ( a^{m} \right )^{n}=\left ( a^{n} \right )^{m}=a^{mn}
+
+a^{n}b^{n}=\left ( ab \right )^{n}
+
+\frac{a^{n}}{b^{n}}=\left ( \frac{a}{b} \right )^{n}
+
+5. Найдите значение выражения: \frac{a^{8,9}}{a^{4,9}} при a=4
+
+\frac{a^{8,9}}{a^{4,9}}=a^{8,9-4,9}=a^{4}=4^{4}=256
+
+Применили формулу частного степеней \frac{a^{m}}{a^{n}}=a^{m-n}
+
+6. Вычислите \left ( \frac{2^{\frac{1}{3}}\cdot 2^{\frac{1}{4}}}{\sqrt[12]{2}} \right )^{2}
+
+\left ( \frac{2^{\frac{1}{3}}\cdot 2^{\frac{1}{4}}}{\sqrt[12]{2}} \right )^{2}=\left ( \frac{2^{\frac{1}{3}}\cdot 2^{\frac{1}{4}}}{2^{\frac{1}{12}}} \right )^{2}=\left ( 2^{\frac{1}{3}+\frac{1}{4}-\frac{1}{12}} \right )^{2}=\left ( 2^{\frac{4}{12}+\frac{3}{12}-\frac{1}{12}} \right )^{2}=
+
+=\left (2^{\frac{1}{2}} \right )^{2}=2
+
+7. Вычислите \frac{5\left ( m^{6} \right )^{5}+13\left ( m^{10} \right )^{3}}{\left ( 2m^{15} \right )^{2}}, если m=3,7.
+
+Спокойно, не пугаемся. И конечно, не спешим подставлять значение m=3,7. Сначала упростим выражение.
+
+\frac{5\left ( m^{6} \right )^{5}+13\left ( m^{10} \right )^{3}}{\left ( 2m^{15} \right )^{2}}=\frac{5m^{30}+13m^{30}}{4m^{30}}=\frac{18m^{30}}{4m^{30}}=4,5
+
+8. Вычислите 0,75^{\frac{1}{8}}\cdot 4^{\frac{1}{4}}\cdot 12^{\frac{7}{8}}
+
+0,75^{\frac{1}{8}}\cdot 4^{\frac{1}{4}}\cdot 12^{\frac{7}{8}}=\left ( \frac{3}{4} \right )^{\frac{1}{8}}\cdot 4^{\frac{1}{4}}\cdot \left ( 3\cdot 4 \right )^{\frac{7}{8}}=\frac{3^{\frac{1}{8}}\cdot 4^{\frac{1}{4}}\cdot 3^{\frac{7}{8}}\cdot 4^{\frac{7}{8}}}{4^{\frac{1}{8}}}=3\cdot 4=12
+
+Применили формулу для произведения степеней: a^{m}\cdot a^{n}=a^{m+n}
+
+9. Вычислите \frac{\sqrt[28]{3}\cdot 3\cdot \sqrt[21]{3}}{\sqrt[12]{3}}
+
+\frac{\sqrt[28]{3}\cdot 3\cdot \sqrt[21]{3}}{\sqrt[12]{3}}=\frac{3^{\frac{1}{28}}\cdot 3\cdot 3^{\frac{1}{21}}}{3^{\frac{1}{12}}}=3^{\frac{1}{28}+1+\frac{1}{21}-\frac{1}{12}}=3^{\frac{3}{84}+1+\frac{4}{84}-\frac{7}{84}}=3
+
+Записали корни в виде степеней (это удобно!) и применили формулу произведения степеней.
+
+Логарифмические выражения
+
+Темы для повторения:
+Логарифмы
+
+Логарифм положительного числа b по основанию a — это показатель степени, в которую надо возвести a, чтобы получить b.
+
+\log _{a}b=c\Leftrightarrow a^{c}=b.
+
+При этом b> 0, a > 0, a\neq 1.
+
+Основные логарифмические формулы:
+
+Основное логарифмическое тождество: \boldsymbol{\log _{a}a^{c}=c, \; a^{\log _{a}b}=b}
+
+Логарифм произведения равен сумме логарифмов: \boldsymbol{\log _{a}\left ( bc \right )=\log _{a}b+\log _{a}c}
+
+Логарифм частного равен разности логарифмов: \boldsymbol{\log _{a}\left ( \frac{b}{c} \right )=\log _{a}b-\log _{a}c}
+
+Формула для логарифма степени: \boldsymbol{\log _{a}b^{m}=m\log_{a}b}
+
+Формула перехода к новому основанию: \boldsymbol{\log _{a}b=\frac{1}{\log _{b}a},\; \log _{a}b=\frac{\log _{c}b}{\log _{c}a}}
+
+10. Вычислите: \log _{5}7\cdot \log _{7}25.
+
+\log _{5}7\cdot \log _{7}25=\log _{5}7\cdot \log _{7}5^{2}=2\log _{5}7\cdot \log _{7}5=2
+
+Снова формула перехода к другому основанию.
+
+\log _{a}b=\frac{1}{\log _{b}a}, поэтому
+\log _{a}b\cdot log _{b}\;a=1
+
+11. Найдите \log _{a}\frac{a^{6}}{b^{4}}, если \log _{a}b=-2.
+
+\log _{a}\frac{a^{6}}{b^{4}}=\log _{a}a^{6}-\log _{a}b^{6}=6-4\log _{a}b=6-4\cdot \left ( -2 \right )=6+8=14
+
+12. Найдите значение выражения \frac{\log _{2}80}{3+\log _{2}10}.
+
+\frac{\log _{2}80}{3+\log _{2}10}=\frac{\log _{2}\left (8\cdot 10 \right )}{3+\log _{2}10}=\frac{\log _{2}8+\log _{2}10}{3+\log _{2}10}=\frac{3+\log _{2}10}{3+\log _{2}10}=1
+
+13. Найдите значение выражения \frac{\log _{9}\sqrt[10]{8}}{\log _{9}8}.
+
+\frac{\log _{9}\sqrt[10]{8}}{\log _{9}8}=\frac{\log _{9}8^{\frac{1}{10}}}{\log _{9}8}=\frac{1}{10}=0,1.
+
+14. Найдите значение выражения \left ( 1-\log _{3}18 \right )\left ( \log _{6}54 -1\right ).
+
+\left ( 1-\log _{3}18 \right )\left ( \log _{6}54 -1\right )=-\left ( \log _{3}18-\log _{3}3 \right )\cdot \left ( \log _{6}54-\log _{6}6 \right )=-\log _{3}6\cdot \log _{6}9=-2\log _{3}6\cdot \log _{6}3=-2.
+
+Тригонометрия. Формулы тригонометрии и формулы приведения
+
+Темы для повторения:
+Тригонометрический круг.
+Формулы тригонометрии.
+Формулы приведения.
+
+15. Вычислите: 44\sqrt{3}tg\left ( -480^{\circ} \right )
+
+44\sqrt{3}tg\left ( -480^{\circ} \right )=44\sqrt{3}\cdot \frac{\sin \left ( -480^{\circ} \right )}{\cos \left ( -480^{\circ} \right )}=-44\sqrt{3}\cdot \frac{\sin 480^{\circ}}{\cos 480^{\circ}}=-44\sqrt{3}\cdot \frac{\sin 120^{\circ}}{\cos 120^{\circ}}=-44\sqrt{3}\cdot \frac{\sqrt{3}}{2}:\left ( -\frac{1}{2} \right )=132
+
+16. Найдите 3\cos \alpha, если \sin \alpha =-\frac{2\sqrt{2}}{3} и \alpha \in \left ( \frac{3\pi }{2};\;2\pi \right ).
+
+\cos ^{2}\alpha =1-\sin ^{2}\alpha =1-\left ( -\frac{2\sqrt{2}}{3} \right )^{2}=1-\frac{8}{9}=\frac{1}{9}
+
+Т.к. \alpha \in \left ( \frac{3\pi }{2};\;2\pi \right ), то \cos \alpha =\frac{1}{3}
+3\cos \alpha =3\cdot \frac{1}{3}=1
+
+17. Найдите tg\alpha, если \sin \alpha =-\frac{1}{\sqrt{5}} и \alpha \in \left ( 1,5\pi ;\;2\pi \right )
+
+\cos ^{2}\alpha =1-\sin ^{2}\alpha =1-\left ( -\frac{1}{\sqrt{5}} \right )^{2}=1-\frac{1}{5}=\frac{4}{5}
+
+Т.к. \alpha \in \left ( 1,5\pi ;\;2\pi \right ), то
+\cos \alpha =\frac{2}{\sqrt{5}}
+
+tg\alpha =\frac{\sin \alpha }{\cos \alpha }=-\frac{1}{\sqrt{5}}:\frac{2}{\sqrt{5}}=-2
+
+18. Найдите значение выражения: \frac{13\sin 152^{\circ}}{\cos 76^{\circ}\cdot \cos 14^{\circ}}
+
+\frac{13\sin 152^{\circ}}{\cos 76^{\circ}\cdot \cos 14^{\circ}}=\frac{13\cdot 2sin 76^{\circ}\cdot \cos 76^{\circ}}{\cos 76^{\circ}\cdot \cos 14^{\circ}}=\frac{26\sin 76^{\circ}}{\cos 14^{\circ}}=\frac{26\sin \left ( 90^{\circ}-14^{\circ} \right )}{\cos 14^{\circ}}=
+
+=\frac{26\cos 14^{\circ}}{\cos 14^{\circ}}=26
+
+Применили формулу приведения.
+
+19. Упростите выражение: \frac{3cos(\pi - \beta)+sin(\frac{\pi}{2}+\beta)}{cos(\beta+3\pi)}
+
+\frac{3\cos \left ( \pi -\beta \right )+\sin \left ( \frac{\pi }{2}+\beta \right )}{\cos \left ( \beta +3\pi \right )}=\frac{-3\cos \beta +\cos \beta }{-\cos \beta }=\frac{-2\cos \beta }{-\cos \beta }=2
+
+Применили формулу приведения.
+
+20. Найдите 2\cos 2\alpha, если \sin \alpha =-0,7.
+
+2\cos 2\alpha =2\left ( 1-2\sin ^{2}\alpha \right )=2-4\sin ^{2}\alpha =2-4\cdot \left ( -0,7 \right )^{2}=0,04 
+
+21. Вычислите \frac{1-\cos 2\alpha +\sin 2\alpha }{1+\cos 2\alpha +\sin 2\alpha }, если tg\alpha =0,3
+
+\frac{1-\cos 2\alpha +\sin 2\alpha }{1+\cos 2\alpha +\sin 2\alpha }=\frac{1-\cos ^{2}\alpha +\sin ^{2}\alpha +2\sin \alpha \cos \alpha }{1+\cos ^{2}\alpha -\sin ^{2}\alpha +2\sin \alpha \cos \alpha }=
+
+=\frac{2\sin ^{2}\alpha +2\sin \alpha \cos \alpha }{2\cos ^{2}\alpha +2\sin \alpha \cos \alpha }=\frac{\sin \alpha \left ( \sin \alpha +\cos \alpha \right )}{\cos \alpha \left ( \cos \alpha +\sin \alpha \right )}=\frac{\sin \alpha }{\cos \alpha }=tg\alpha =0,3
+
+Алгебраические выражения, корни, степени и логарифмы. И еще тригонометрия. Это всё, что может встретиться в задании 9 Профильного ЕГЭ по математике?
+
+Оказывается, и это не всё! Еще нужно знать, что такое модуль. И как найти \sqrt{a^{2}}.
+
+Другие типы заданий
+
+Темы для повторения:
+Модуль числа.
+Что такое функция.
+
+22. Найдите значение выражения
+\sqrt{\left ( a-2 \right )^{2}}+\sqrt{\left ( a-4 \right )^{2}} при 2\leq a\leq 4.
+
+Запомним: \sqrt{a^{2}}=\left | a \right |
+
+\sqrt{\left ( a-2 \right )^{2}}+\sqrt{\left ( a-4 \right )^{2}}=\left | a-2 \right |+\left | a-4 \right |.
+
+Если 2\leq a\leq 4, то a-2\geq 0 и \left | a-2 \right |=a-2.
+
+При этом a-4\leq 0 и \left | a-4 \right |=4-a.
+
+При 2\leq a\leq 4 получаем: \left | a-2 \right |+\left | a-4 \right |=a-2+4-a=2.
+
+Ответ: 2
+
+23. Найдите значение выражения
+
+x+\sqrt{x^{2}-24x+144} при x\leq 12.
+
+При x\leq 12 получим:
+
+x+\sqrt{x^{2}-24x+144}=x+\sqrt{\left ( x-12 \right )^{2}}=x+\left | x-12 \right |=x+12-x=12.
+
+Ответ: 12.
+
+24. Найдите \frac{g\left ( 5-x \right )}{g\left ( 5+x \right )}, если g\left ( x \right )=\sqrt[9]{x\left ( 10-x \right )}, при \left | x \right |\neq 5.
+
+Что такое g\left ( x \right )? Это функция, каждому числу ставящая в соответствие число \sqrt[9]{x\left ( 10-x \right )}. Например, g\left ( 0 \right )=0;
+
+g\left ( 1 \right )=\sqrt[9]{1\cdot \left ( 10-1 \right )}=\sqrt[9]{9}
+
+Тогда:
+
+g\left ( 5-x \right )=\sqrt[9]{\left ( 5-x \right )\left ( 10-5+x \right )}=\sqrt[9]{\left ( 5-x \right )\left ( 5+x \right )},
+
+g\left ( 5+x \right )=\sqrt[9]{\left ( 5+x \right )\left ( 10-5-x \right )}=\sqrt[9]{\left ( 5+x \right )\left ( 5-x \right )}
+
+Заметим, что g\left ( 5-x \right )=g\left ( 5+x \right ).
+
+Значит, при \left | x \right |\neq 5
+\frac{g\left ( 5-x \right )}{g\left ( 5+x \right )}=1.
+
+25. Найдите \frac{p\left ( b \right )}{p\left ( \frac{1}{b} \right )}, если p\left ( b \right )=\left ( b-\frac{9}{b} \right )\left ( -9b+\frac{1}{b} \right ), при b\neq 0.
+
+p\left ( b \right )=\left ( b-\frac{9}{b} \right )\left ( -9b+\frac{1}{b} \right ) — функция, каждому числу b ставящая в соответствии число
+\left ( b-\frac{9}{b} \right )\left ( -9b+\frac{1}{b} \right ).
+
+Тогда при b\neq 0
+
+p\left ( \frac{1}{b} \right )=\left ( \frac{1}{b}-9b \right )\left ( -\frac{9}{b} +b\right )=\left ( b-\frac{9}{b} \right )\left (-9b +\frac{1}{b} \right )=p\left ( b \right ), и значение выражения \frac{p\left ( b \right )}{p\left ( \frac{1}{b} \right )} равно 1.
