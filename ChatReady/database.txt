@@ -1,0 +1,4 @@
+hello $ Hello, human!
+what is your name $ My name is ChatBot!
+what are you doing $ Answering stoopid questions
+how are you $ Do some work :D
